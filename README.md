@@ -46,6 +46,8 @@ about.html
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About Us</a></li>
                 <li><a href="menu.html">Menu</a></li>
+                <li><a href="contactus.html">Contact us</a></li>
+                <li><a href="administration.html">Administration</a></li>
             </ul>
         </nav>
     </header>
@@ -78,6 +80,8 @@ index.html
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About Us</a></li>
                 <li><a href="menu.html">Menu</a></li>
+                <li><a href="contactus.html">Contact us</a></li>
+                <li><a href="administration.html">Administration</a></li>
             </ul>
         </nav>
     </header>
@@ -89,9 +93,9 @@ index.html
         <p>&copy; 2024 Restaurant Name. All rights reserved.</p>
     </footer>
 </body>
+</html>
 
 menu.html
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -108,6 +112,8 @@ menu.html
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About Us</a></li>
                 <li><a href="menu.html">Menu</a></li>
+                <li><a href="contactus.html">Contact us</a></li>
+                <li><a href="administration.html">Administration</a></li>
             </ul>
         </nav>
     </header>
@@ -138,6 +144,75 @@ menu.html
     </footer>
 </body>
 </html>
+
+Administration.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Administration</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="contactus.html">Contact us</a></li>
+                <li><a href="administration.html">Administration</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <img src="BURGER.png" alt="Administration" class="image">
+        <p>Welcome to the Burger Hut Administration Page. Our mission is to provide high-quality burgers and excellent customer service in a friendly atmosphere. The administration team manages various aspects of the restaurant, including staffing, inventory, and customer relations. We efficiently handle scheduling, employee training, and performance reviews to maintain a skilled team. Our inventory management system ensures that ingredients are tracked and reordered as needed, while waste control measures help optimize costs. We streamline both in-house and online orders for accuracy and timeliness, and actively monitor customer feedback to maintain quality service. Additionally, we plan promotions, manage social media, and engage in local events to boost brand visibility. Our team also oversees financial reporting, tracking sales and expenses to support growth. For any inquiries, feel free to contact us at admin@burgerhut.com or call (555) 123-4567. Thank you for supporting Burger Hut!.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Restaurant Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+Contact us.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Burger Hut</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Restaurant </h1>
+        <h2>THE BURGER HUT</h2>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="contactus.html">Contact us</a></li>
+                <li><a href="administration.html">Administration</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <img src="images/restaurant.jpeg" alt="Restaurant" class="banner">
+        <p>Adress: Burger Hut , Sagas Vaihav Enclave,Injambakkam,Chennai</p>
+        <p>Phone no: 9500056615</p>
+        <p>Email:burgerhut@gmail.com</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Restaurant Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
 
 style.css
 
@@ -213,6 +288,10 @@ footer {
 
 ![Menu 5](https://github.com/user-attachments/assets/462de236-7f80-46f1-8b6b-4ced7378db0e)
 
+![Contact us](https://github.com/user-attachments/assets/ec252997-c25c-4a91-9514-45ce76016ff4)
+
+
+![Administration](https://github.com/user-attachments/assets/44540a9c-bb2c-4f6c-ab74-8babaeeb7718)
 
 
 
